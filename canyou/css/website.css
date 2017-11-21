@@ -1,0 +1,40 @@
+/*
+* name: website.css
+* author: lyf
+* addTime: 2017.07.19
+* editTime:
+* description: 无障碍工具条修改
+*
+***/
+
+#canyou_toolbar_div {
+    background: #8398a7 url(../images/website/bg.png) repeat-x;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.cy_toolbar_bg_table {
+    height: 148px;
+}
+
+.canyou_top {
+	height: 148px;
+}
+
+.canyou-top-trone td {
+	height: 30px;
+	line-height: 30px;
+	vertical-align: middle;
+}
+
+.canyou-top-trtwo td {
+	height: 85px;
+	line-height: 85px;
+	vertical-align: middle;
+}
+
+.canyou-top-trthree td {
+	height: 33px;
+	line-height: 33px;
+	vertical-align: middle;
+}
