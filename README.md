@@ -20,7 +20,8 @@
   放在首页模板区间任意位置即可。一般网站头部和尾部都是模版区。建议放在网站每个页面的“</body>”之前
 
 3、在首页位置添加链接，链接样式如下：
-<a title="盲人朋友在线浏览按住shift+1键"  onmousedown="ShowDetail()">信息无障碍通道</a>，确保红色加粗的不变。可以使用任何html标签。确保该链接放在页面的易发现位置。
+<a title="盲人朋友在线浏览按住shift+1键"  onmousedown="ShowDetail()">信息无障碍通道</a>。
+确保红色加粗的不变。可以使用任何html标签。确保该链接放在页面的易发现位置。
 
 4、修改canyou/default.html中cysrc="http://wza.canyou168.com/"  为   cysrc="http://www.hi.gov.cn/" 
 
