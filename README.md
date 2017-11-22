@@ -25,7 +25,7 @@
 
 ### 信息无障碍辅助工具部署步骤
 
-    以海南人民政府网站为例，官网地址：http://www.hi.gov.cn/code/html
+> 以海南人民政府网站为例，官网地址：http://www.hi.gov.cn/code/html
 
 - 1.将canyou文件夹放到 ```http://www.hi.gov.cn``` 站点指向的服务器目录下，保证```http://www.hi.gov.cn/canyou/```能够被访问到即可。
 
