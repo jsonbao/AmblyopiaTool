@@ -68,7 +68,7 @@
 
 - 海南特殊教育信息网 [http://www.hktjw.org](http://www.hktjw.org "海南特殊教育信息网")
 
-- 陕西省环保厅 [http://www.snepb.gov.cn](http://113.140.66.226:8111 "陕西省环保厅")
+- 陕西省环保厅 [http://www.snepb.gov.cn](http://113.140.66.226:8111/canyou/default.html "陕西省环保厅")
  
 
 ### 演示站点
