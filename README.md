@@ -46,7 +46,7 @@
 ```
    <a title="盲人朋友在线浏览按住shift+1键"  onmousedown="ShowDetail()">信息无障碍通道</a>。
 ```
-- 4.修改```canyou/default.html```中```cysrc="http://wza.canyou168.com/"```为```cysrc="http://www.hi.gov.cn/" ```
+- 4.修改```canyou/default.html```中```cysrc="http://wza.rrbay.com/"```为```cysrc="http://www.hi.gov.cn/" ```
 
 - 5.部署的域名发过来，进行授权。
 
@@ -73,7 +73,7 @@
 
 ### 演示站点
 
-- 工具条灰色模版 [http://wza.canyou168.com](http://wza.canyou168.com "工具条灰色模版")
+- 工具条灰色模版 [http://wza.rrbay.com](http://wza.rrbay.com "工具条灰色模版")
 
-- 工具条蓝色模版 [http://wza.canyou168.com/pro](http://wza.canyou168.com/pro "工具条蓝色模版")
+- 工具条蓝色模版 [http://wza.rrbay.com/pro](http://wza.rrbay.com/pro "工具条蓝色模版")
 
