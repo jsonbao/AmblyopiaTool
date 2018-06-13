@@ -1,4 +1,4 @@
-﻿# 网站信息无障碍
+# 网站信息无障碍
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/gemgin/AmblyopiaTool/pulls)
 [![GitHub stars](https://img.shields.io/github/stars/gemgin/AmblyopiaTool.svg?style=social&label=Stars)](https://github.com/gemgin/AmblyopiaTool)
@@ -76,4 +76,3 @@
 - 工具条灰色模版 [http://wza.rrbay.com](http://wza.rrbay.com "工具条灰色模版")
 
 - 工具条蓝色模版 [http://wza.rrbay.com/pro](http://wza.rrbay.com/pro "工具条蓝色模版")
-
