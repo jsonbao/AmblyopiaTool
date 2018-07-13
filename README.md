@@ -72,6 +72,9 @@
 
 - 洛阳市洛龙区人民政府网 [http://www.luolong.gov.cn/](http://www.luolong.gov.cn/canyou/default.html?url=http://www.luolong.gov.cn/ "洛阳市洛龙区人民政府网")
 
+- 新余市渝水区残疾人联合会 [http://cl.yushui.gov.cn/](http://cl.yushui.gov.cn/canyou/default.html?url=http://cl.yushui.gov.cn/index.html "江西省新余市渝水区残疾人联合会")
+
+- 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
 
 ### 演示站点
 
