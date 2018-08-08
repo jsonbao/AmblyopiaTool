@@ -48,7 +48,6 @@
 ```
 - 4.修改```canyou/default.html```中```cysrc="http://wza.rrbay.com/"```为```cysrc="http://www.hi.gov.cn/" ```
 
-- 5.部署的域名发过来，进行授权。
 
 > 测试部署是否成功
 
