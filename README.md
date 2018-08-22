@@ -75,6 +75,8 @@
 
 - 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
 
+- 安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/canyou/default.html?url=http://www.akjcy.gov.cn/Index.html " 安康市人民检察院")
+
 ### 演示站点
 
 - 工具条灰色模版 [http://wza.rrbay.com](http://wza.rrbay.com "工具条灰色模版")
