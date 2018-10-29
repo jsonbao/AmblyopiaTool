@@ -64,7 +64,9 @@
 - 海南特殊教育信息网 [http://www.hktjw.org](http://www.hktjw.org "海南特殊教育信息网")
 
 - 洛阳市洛龙区人民政府网 [http://www.luolong.gov.cn/](http://www.luolong.gov.cn/canyou/default.html?url=http://www.luolong.gov.cn/ "洛阳市洛龙区人民政府网")
- 
+
+- 延安安塞区人民政府 [http://www.ansai.gov.cn/](http://www.ansai.gov.cn/canyou/default.html?url=http://www.ansai.gov.cn/ "延安安塞区人民政府")
+
 - 河北省三河市人民政府网 [http://www.san-he.gov.cn](http://www.san-he.gov.cn/canyou/default.html?url=http://www.san-he.gov.cn/ "河北省三河市人民政府网")
 
 - 广西那坡县人民政府网 [http://www.napo.gov.cn](http://www.napo.gov.cn/canyou/default.html?url=http://www.napo.gov.cn/ "广西那坡县人民政府网")
