@@ -16,7 +16,7 @@
 
 ## 网站信息无障碍解决方案
    
-    详细见 [https://wenku.baidu.com/view/3704cca6cd22bcd126fff705cc17552706225e46](https://wenku.baidu.com/view/3704cca6cd22bcd126fff705cc17552706225e46 "信息无障碍建设咨询解决方案_20171226")  
+- 信息无障碍建设咨询解决方案 [https://wenku.baidu.com/view/3704cca6cd22bcd126fff705cc17552706225e46](https://wenku.baidu.com/view/3704cca6cd22bcd126fff705cc17552706225e46 "信息无障碍建设咨询解决方案_20171226")  
 
 ### 信息无障碍工具条界面
 ![信息无障碍工具条界面](doc/%E6%97%A0%E9%9A%9C%E7%A2%8D%E5%B7%A5%E5%85%B7%E6%9D%A1%E7%95%8C%E9%9D%A2.png)
@@ -59,7 +59,7 @@
 
 ### 成功案例
 
-- 安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/canyou/default.html?url=http://www.akjcy.gov.cn/Index.html " 安康市人民检察院")
+- 安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/canyou/default.html?url=http://www.akjcy.gov.cn/Index.html "安康市人民检察院")
 
 - 海南省残疾人联合会 [http://www.hidpf.org.cn](http://www.hidpf.org.cn "海南省残疾人联合会")
 
