@@ -86,3 +86,5 @@
 - 工具条灰色模版 [http://wza.rrbay.com](http://wza.rrbay.com "工具条灰色模版")
 
 - 工具条蓝色模版 [http://wza.rrbay.com/pro](http://wza.rrbay.com/pro "工具条蓝色模版")
+
+- 工具条纯蓝模版 [http://wza.rrbay.com/dev](http://wza.rrbay.com/dev "工具条纯蓝模版")
