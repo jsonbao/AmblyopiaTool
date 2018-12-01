@@ -75,6 +75,10 @@
 
 - 新余市渝水区残疾人联合会 [http://cl.yushui.gov.cn/](http://cl.yushui.gov.cn/canyou/default.html?url=http://cl.yushui.gov.cn/index.html "江西省新余市渝水区残疾人联合会")
 
+- 海口市会展局 [http://hzj.haikou.gov.cn](http://hzj.haikou.gov.cn/canyou/default.html?url=http://hzj.haikou.gov.cn/index.html "海口市会展局")
+
+- 张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "张家口市商务局")
+
 - 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
 
 - 广东省网上办事大厅 [http://www.gdbs.gov.cn/portal/index.do](http://www.gdbs.gov.cn/portal/index.do "广东省网上办事大厅")
