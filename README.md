@@ -77,6 +77,12 @@
 
 - 海口市会展局 [http://hzj.haikou.gov.cn](http://hzj.haikou.gov.cn/canyou/default.html?url=http://hzj.haikou.gov.cn/index.html "海口市会展局")
 
+- 黄石市残疾人联合会 [www.hsdpf.org.cn](http://www.hsdpf.org.cn/canyou/default.html?url=http://www.hsdpf.org.cn/ "黄石市残疾人联合会")
+
+- 西安红凤工程 [http://www.hongfeng.org.cn/](http://www.hongfeng.org.cn/canyou/default.html?url=http://www.hongfeng.org.cn/ "西安红凤工程")
+
+- 安溪县医院 [http://www.qzzs.cn/](http://www.qzzs.cn/canyou/default.html?url=http://www.qzzs.cn/ "安溪县医院")
+
 - 张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "张家口市商务局")
 
 - 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
