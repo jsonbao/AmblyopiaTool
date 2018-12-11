@@ -57,6 +57,8 @@
 
    在浏览器中输入地址或通过单击原网站头部无障碍操作条中的链接即可完成对网站的信息无障碍化访问。
 
+> 申明:太阳湾信息无障碍公共服务平台工具条免费提供给大家用，要严格按照上面步骤部署安装修改,canyou文件夹下面其他有关太阳湾版权信息禁止修改，否则权限收回。
+
 ### 成功案例
 
 - 安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/canyou/default.html?url=http://www.akjcy.gov.cn/Index.html "安康市人民检察院")
