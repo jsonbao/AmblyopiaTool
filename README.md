@@ -83,6 +83,8 @@
 
 - 安溪县医院 [http://www.qzzs.cn/](http://www.qzzs.cn/canyou/default.html?url=http://www.qzzs.cn/ "安溪县医院")
 
+- 东营统计信息网 [http://dystjj.dongying.gov.cn/](http://dystjj.dongying.gov.cn/canyou/default.html?url=http://dystjj.dongying.gov.cn/dytj/index/index.shtml "东营统计信息网")
+
 - 张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "张家口市商务局")
 
 - 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
