@@ -79,7 +79,7 @@
 
 - 海口市会展局 [http://hzj.haikou.gov.cn](http://hzj.haikou.gov.cn/canyou/default.html?url=http://hzj.haikou.gov.cn/index.html "海口市会展局")
 
-- 黄石市残疾人联合会 [www.hsdpf.org.cn](http://www.hsdpf.org.cn/canyou/default.html?url=http://www.hsdpf.org.cn/ "黄石市残疾人联合会")
+- 黄石市残疾人联合会 [http://www.hsdpf.org.cn](http://www.hsdpf.org.cn/canyou/default.html?url=http://www.hsdpf.org.cn/ "黄石市残疾人联合会")
 
 - 西安红凤工程 [http://www.hongfeng.org.cn/](http://www.hongfeng.org.cn/canyou/default.html?url=http://www.hongfeng.org.cn/ "西安红凤工程")
 
@@ -90,6 +90,8 @@
 - 张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "张家口市商务局")
 
 - 张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/canyou/default.html?url=http://www.zjkepb.gov.cn "张家口市环境保护局")
+
+- 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/canyou/default.jsp?url=http://www.ah.hrss.gov.cn/web/index.html "安徽省人力资源和社会保障厅")
 
 - 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
 
