@@ -87,11 +87,13 @@
 
 - 东营统计信息网 [http://dystjj.dongying.gov.cn/](http://dystjj.dongying.gov.cn/canyou/default.html?url=http://dystjj.dongying.gov.cn/dytj/index/index.shtml "东营统计信息网")
 
+- 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/canyou/default.html?url=http://www.ah.hrss.gov.cn/web/index.html "安徽省人力资源和社会保障厅")
+
+- 佛山市第二人民医院 [https://www.fsey.com](https://www.fsey.com/canyou/default.html?url=https://www.fsey.com/ "佛山市第二人民医院")
+
 - 张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "张家口市商务局")
 
 - 张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/canyou/default.html?url=http://www.zjkepb.gov.cn "张家口市环境保护局")
-
-- 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/canyou/default.html?url=http://www.ah.hrss.gov.cn/web/index.html "安徽省人力资源和社会保障厅")
 
 - 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
 
