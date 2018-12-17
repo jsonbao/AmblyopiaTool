@@ -91,7 +91,7 @@
 
 - 张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/canyou/default.html?url=http://www.zjkepb.gov.cn "张家口市环境保护局")
 
-- 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/canyou/default.jsp?url=http://www.ah.hrss.gov.cn/web/index.html "安徽省人力资源和社会保障厅")
+- 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/canyou/default.html?url=http://www.ah.hrss.gov.cn/web/index.html "安徽省人力资源和社会保障厅")
 
 - 南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.ncmcwl.com/canyou/default.html?url=http://www.nczx.ncmcwl.com/ " 四川省南充市政治协商委员会")
 
