@@ -91,6 +91,10 @@
 
 - 佛山市第二人民医院 [https://www.fsey.com](https://www.fsey.com/canyou/default.html?url=https://www.fsey.com/ "佛山市第二人民医院")
 
+- 青海湖管理局 [http://www.qhh.gov.cn](http://www.qhh.gov.cn/canyou/default.html?url=http://www.qhh.gov.cn/ "青海湖管理局")
+
+- 天津市文化和旅游局 [http://whgbys.tj.gov.cn/](http://whgbys.tj.gov.cn/canyou/default.html?url=http://whgbys.tj.gov.cn/#/ "天津市文化和旅游局")
+
 - 张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "张家口市商务局")
 
 - 张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/canyou/default.html?url=http://www.zjkepb.gov.cn "张家口市环境保护局")
