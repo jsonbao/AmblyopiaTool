@@ -93,6 +93,8 @@
 
 - 青海湖管理局 [http://www.qhh.gov.cn](http://www.qhh.gov.cn/canyou/default.html?url=http://www.qhh.gov.cn/ "青海湖管理局")
 
+- 德清县残疾人联合会 [http://cl.deqing.gov.cn/](http://cl.deqing.gov.cn/canyou/default.html?url=http://cl.deqing.gov.cn/ "德清县残疾人联合会")
+
 - 天津市文化和旅游局 [http://whgbys.tj.gov.cn/](http://whgbys.tj.gov.cn/canyou/default.html?url=http://whgbys.tj.gov.cn/#/ "天津市文化和旅游局")
 
 - 张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "张家口市商务局")
