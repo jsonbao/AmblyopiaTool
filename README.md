@@ -61,53 +61,53 @@
 
 ### 成功案例
 
-- 海南省残疾人联合会 [http://www.hidpf.org.cn](http://www.hidpf.org.cn/canlian/canyou/default.html?url=http://www.hidpf.org.cn/ "海南省残疾人联合会")
+- 海南省残疾人联合会 [http://www.hidpf.org.cn](http://www.hidpf.org.cn/ "海南省残疾人联合会")
 
-- 海南省残疾人劳动就业服务中心 [http://www.hicjrjy.org](http://www.hicjrjy.org/canyou/default.html?url=http://www.hicjrjy.org/ "海南省残疾人劳动就业服务中心")
+- 海南省残疾人劳动就业服务中心 [http://www.hicjrjy.org](http://www.hicjrjy.org/"海南省残疾人劳动就业服务中心")
 
-- 海南省海口市会展局 [http://hzj.haikou.gov.cn](http://hzj.haikou.gov.cn/canyou/default.html?url=http://hzj.haikou.gov.cn/index.html "海口市会展局")
+- 海南省海口市会展局 [http://hzj.haikou.gov.cn](http://hzj.haikou.gov.cn/ "海口市会展局")
 
-- 湖北省黄石市残疾人联合会 [http://www.hsdpf.org.cn](http://www.hsdpf.org.cn/canyou/default.html?url=http://www.hsdpf.org.cn/ "湖北省黄石市残疾人联合会")
+- 湖北省黄石市残疾人联合会 [http://www.hsdpf.org.cn](http://www.hsdpf.org.cn/ "湖北省黄石市残疾人联合会")
 
-- 陕西省安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/canyou/default.html?url=http://www.akjcy.gov.cn/Index.html "陕西省安康市人民检察院")
+- 浙江省德清县残疾人联合会 [http://cl.deqing.gov.cn/](http://cl.deqing.gov.cn/ "浙江省德清县残疾人联合会")
 
-- 陕西省西安市红凤工程 [http://www.hongfeng.org.cn/](http://www.hongfeng.org.cn/canyou/default.html?url=http://www.hongfeng.org.cn/ "陕西省西安市红凤工程")
+- 浙江省红船干部学院 [http://www.zjhcgbxy.com/](http://www.zjhcgbxy.com/ "浙江红船干部学院")
 
-- 河北省张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/canyou/default.html?url=http://www.zjksw.gov.cn "河北省张家口市商务局")
+- 江西省新余市渝水区残疾人联合会 [http://cl.yushui.gov.cn/](http://cl.yushui.gov.cn/canyou/ "江西省新余市渝水区残疾人联合会")
 
-- 河北省张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/canyou/default.html?url=http://www.zjkepb.gov.cn "张家口市环境保护局")
+- 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/ "安徽省人力资源和社会保障厅")
 
-- 河北省三河市人民政府网 [http://www.san-he.gov.cn](http://www.san-he.gov.cn/canyou/default.html?url=http://www.san-he.gov.cn/ "河北省三河市人民政府网")
-
-- 广西省那坡县人民政府网 [http://www.napo.gov.cn](http://www.napo.gov.cn/canyou/default.html?url=http://www.napo.gov.cn/ "广西省那坡县人民政府网")
-
-- 江西省新余市渝水区残疾人联合会 [http://cl.yushui.gov.cn/](http://cl.yushui.gov.cn/canyou/default.html?url=http://cl.yushui.gov.cn/index.html "江西省新余市渝水区残疾人联合会")
-
-- 天津市文化和旅游局 [http://whgbys.tj.gov.cn/](http://whgbys.tj.gov.cn/canyou/default.html?url=http://whgbys.tj.gov.cn/#/ "天津市文化和旅游局")
-
-- 浙江省德清县残疾人联合会 [http://cl.deqing.gov.cn/](http://cl.deqing.gov.cn/canyou/default.html?url=http://cl.deqing.gov.cn/ "浙江省德清县残疾人联合会")
-
-- 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/canyou/default.html?url=http://www.ah.hrss.gov.cn/web/index.html "安徽省人力资源和社会保障厅")
+- 陕西省西安市红凤工程 [http://www.hongfeng.org.cn/](http://www.hongfeng.org.cn/ "陕西省西安市红凤工程")
 
 - 青海省青海湖管理局 [http://www.qhh.gov.cn](http://www.qhh.gov.cn/canyou/default.html?url=http://www.qhh.gov.cn/ "青海省青海湖管理局")
 
 - 广东省佛山市第二人民医院 [https://www.fsey.com](https://www.fsey.com/canyou/default.html?url=https://www.fsey.com/ "广东省佛山市第二人民医院")
 
+- 河北省张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/ "河北省张家口市商务局")
+
+- 陕西省安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/ "陕西省安康市人民检察院")
+
+- 河北省张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/"张家口市环境保护局")
+
+- 河北省三河市人民政府网 [http://www.san-he.gov.cn](http://www.san-he.gov.cn/ "河北省三河市人民政府网")
+
+- 广西省那坡县人民政府网 [http://www.napo.gov.cn](http://www.napo.gov.cn/ "广西省那坡县人民政府网")
+
+- 天津市文化和旅游局 [http://whgbys.tj.gov.cn/](http://whgbys.tj.gov.cn/ "天津市文化和旅游局")
+
 - 广东省网上办事大厅 [http://www.gdbs.gov.cn/portal/index.do](http://www.gdbs.gov.cn/portal/index.do "广东省网上办事大厅")
 
 - 广东省深圳市福田区残疾人联合会 [http://ftcl.szft.gov.cn](http://ftcl.szft.gov.cn "深圳市福田区残疾人联合会")
 
-- 山东省临沂市蒙阴政府门户网站 [http://www.mengyin.gov.cn/](http://www.mengyin.gov.cn/canyou/default.html?url=http://www.mengyin.gov.cn/ "山东省临沂市蒙阴政府门户网站")
+- 山东省临沂市蒙阴政府门户网站 [http://www.mengyin.gov.cn/](http://www.mengyin.gov.cn/ "山东省临沂市蒙阴政府门户网站")
 
-- 山东省东营市统计信息网 [http://dystjj.dongying.gov.cn/](http://dystjj.dongying.gov.cn/canyou/default.html?url=http://dystjj.dongying.gov.cn/dytj/index/index.shtml "山东省东营市统计信息网")
-
-- 河南省洛阳市洛龙区人民政府网 [http://www.luolong.gov.cn/](http://www.luolong.gov.cn/canyou/default.html?url=http://www.luolong.gov.cn/ "河南省洛阳市洛龙区人民政府网")
+- 河南省洛阳市洛龙区人民政府网 [http://www.luolong.gov.cn/](http://www.luolong.gov.cn/ "河南省洛阳市洛龙区人民政府网")
 
 - 海南省特殊教育信息网 [http://www.hktjw.org](http://www.hktjw.org "海南省特殊教育信息网")
 
-- 山西省介休市政府门户 [http://www.jiexiu.gov.cn/](http://www.jiexiu.gov.cn/canyou/default.html?url=http://www.jiexiu.gov.cn/ "山西省介休市政府门户")
+- 山西省介休市政府门户 [http://www.jiexiu.gov.cn/](http://www.jiexiu.gov.cn/ "山西省介休市政府门户")
 
-- 四川省南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.gov.cn/canyou/default.html?url=http://www.nczx.gov.cn/ " 四川省南充市政治协商委员会")
+- 四川省南充市政治协商委员会 [http://www.nczx.gov.cn/](http://www.nczx.gov.cn/ " 四川省南充市政治协商委员会")
 
 ### 演示站点
 
