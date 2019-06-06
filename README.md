@@ -73,6 +73,10 @@
 
 - 浙江省红船干部学院 [http://www.zjhcgbxy.com/](http://www.zjhcgbxy.com/ "浙江红船干部学院")
 
+- 河南省洛阳市人民政府网 [http://www.ly.gov.cn/](http://www.ly.gov.cn/ "河南省洛阳市人民政府网")
+
+- 河南省洛阳市洛龙区人民政府网 [http://www.luolong.gov.cn/](http://www.luolong.gov.cn/ "河南省洛阳市洛龙区人民政府网")
+
 - 江西省新余市渝水区残疾人联合会 [http://cl.yushui.gov.cn/](http://cl.yushui.gov.cn/canyou/ "江西省新余市渝水区残疾人联合会")
 
 - 安徽省人力资源和社会保障厅 [http://www.ah.hrss.gov.cn](http://www.ah.hrss.gov.cn/ "安徽省人力资源和社会保障厅")
@@ -100,8 +104,6 @@
 - 广东省深圳市福田区残疾人联合会 [http://ftcl.szft.gov.cn](http://ftcl.szft.gov.cn "深圳市福田区残疾人联合会")
 
 - 山东省临沂市蒙阴政府门户网站 [http://www.mengyin.gov.cn/](http://www.mengyin.gov.cn/ "山东省临沂市蒙阴政府门户网站")
-
-- 河南省洛阳市洛龙区人民政府网 [http://www.luolong.gov.cn/](http://www.luolong.gov.cn/ "河南省洛阳市洛龙区人民政府网")
 
 - 海南省特殊教育信息网 [http://www.hktjw.org](http://www.hktjw.org "海南省特殊教育信息网")
 
