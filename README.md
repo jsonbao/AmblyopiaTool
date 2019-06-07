@@ -118,3 +118,7 @@
 - 工具条蓝色模版 [http://www.qqqao.com/pro](http://www.qqqao.com/pro "工具条蓝色模版")
 
 - 工具条纯蓝模版 [http://www.qqqao.com/dev](http://www.qqqao.com/dev "工具条纯蓝模版")
+
+### License
+
+GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007
