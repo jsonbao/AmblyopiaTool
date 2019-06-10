@@ -97,6 +97,8 @@
 
 - 广西省那坡县人民政府网 [http://www.napo.gov.cn](http://www.napo.gov.cn/ "广西省那坡县人民政府网")
 
+- 北京市财政局 [http://czj.beijing.gov.cn/](http://czj.beijing.gov.cn/ "北京市财政局")
+
 - 天津市文化和旅游局 [http://whgbys.tj.gov.cn/](http://whgbys.tj.gov.cn/ "天津市文化和旅游局")
 
 - 广东省网上办事大厅 [http://www.gdbs.gov.cn/portal/index.do](http://www.gdbs.gov.cn/portal/index.do "广东省网上办事大厅")
