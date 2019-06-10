@@ -1,3 +1,11 @@
+/*
+* name: style-amblyopia.css
+* author: gemgin
+* addTime: 2013.07.19
+* editTime:
+* description: qqqao.com
+*
+***/
 body{overflow:hidden; margin:0px; padding:0px;}
 #canyou_toolbar_div{background:#8398a7 url(../images/amblyopia/blue/toolbar_bg.jpg) repeat-x;padding-top:1px;margin-top:1px;}
 .cy_toolbar_bg_table{height:106px;margin:0 auto;}
