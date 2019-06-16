@@ -63,7 +63,7 @@
 
 - 海南省残疾人联合会 [http://www.hidpf.org.cn](http://www.hidpf.org.cn/ "海南省残疾人联合会")
 
-- 海南省残疾人劳动就业服务中心 [http://www.hicjrjy.org](http://www.hicjrjy.org/"海南省残疾人劳动就业服务中心")
+- 海南省残疾人劳动就业服务中心 [http://www.hicjrjy.org](http://www.hicjrjy.org/ "海南省残疾人劳动就业服务中心")
 
 - 海南省海口市会展局 [http://hzj.haikou.gov.cn](http://hzj.haikou.gov.cn/ "海口市会展局")
 
@@ -91,7 +91,7 @@
 
 - 陕西省安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/ "陕西省安康市人民检察院")
 
-- 河北省张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/"张家口市环境保护局")
+- 河北省张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/ "张家口市环境保护局")
 
 - 河北省三河市人民政府网 [http://www.san-he.gov.cn](http://www.san-he.gov.cn/ "河北省三河市人民政府网")
 
