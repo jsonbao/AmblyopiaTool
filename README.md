@@ -89,6 +89,8 @@
 
 - 河北省张家口市商务局 [http://www.zjksw.gov.cn](http://www.zjksw.gov.cn/ "河北省张家口市商务局")
 
+- 河北省张家口文明网 [http://www.zjkwmw.gov.cn/](http://www.zjkwmw.gov.cn/ "河北省张家口文明网")
+
 - 陕西省安康市人民检察院 [http://www.akjcy.gov.cn/](http://www.akjcy.gov.cn/ "陕西省安康市人民检察院")
 
 - 河北省张家口市环境保护局 [http://www.zjkepb.gov.cn](http://www.zjkepb.gov.cn/ "张家口市环境保护局")
