@@ -3,11 +3,11 @@
  * SoundManager 2: JavaScript Sound for the Web
  * ----------------------------------------------
  * http://schillmania.com/projects/soundmanager2/
- *
+ * http://www.qqqao.com/
  * Copyright (c) 2007, Scott Schiller. All rights reserved.
  * Code provided under the BSD License:
  * http://schillmania.com/projects/soundmanager2/license.txt
- *
+ * 
  * V2.97a.20131201
  */
 (function(g,k){function U(U,ka){function V(b){return c.preferFlash&&v&&!c.ignoreFlash&&c.flash[b]!==k&&c.flash[b]}function q(b){return function(c){var d=this._s;return!d||!d._a?null:b.call(this,c)}}this.setupOptions={url:U||null,flashVersion:8,debugMode:!0,debugFlash:!1,useConsole:!0,consoleOnly:!0,waitForWindowLoad:!1,bgColor:"#ffffff",useHighPerformance:!1,flashPollingInterval:null,html5PollingInterval:null,flashLoadTimeout:1E3,wmode:null,allowScriptAccess:"always",useFlashBlock:!1,useHTML5Audio:!0,
