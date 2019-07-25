@@ -37,7 +37,7 @@
 ```
      <script type="text/javascript">
          function ShowDetail() {
-             if (window.top.document.getElementById("canyou_toolbar_div")) {
+             if (window.top.document.getElementById("rrbay_toolbar_div")) {
                  return false;
              }
             var url = "?url=" + document.location.href; window.scrollTo(0, 0);
@@ -50,7 +50,7 @@
 ```
    <a title="盲人朋友在线浏览按住shift+1键"  onmousedown="ShowDetail()">信息无障碍通道</a>。
 ```
-- 4.修改```canyou/default.html```中```cysrc="http://wza.rrbay.com/"```为```cysrc="http://www.hi.gov.cn/" ```
+- 4.修改```canyou/default.html```中```cysrc="http://localhost"```为```cysrc="http://www.hi.gov.cn/" ```
 
 
 > 测试部署是否成功
@@ -64,9 +64,9 @@
 
 - 工具条灰色模版 [http://www.qqqao.com/](http://www.qqqao.com/ "工具条灰色模版")
 
-- 工具条蓝色模版 [http://www.qqqao.com/pro](http://www.qqqao.com/pro "工具条蓝色模版")
+- 工具条蓝色模版 [http://www.qqqao.com/index2.html](http://www.qqqao.com/index2.html "工具条蓝色模版")
 
-- 工具条纯蓝模版 [http://www.qqqao.com/dev](http://www.qqqao.com/dev "工具条纯蓝模版")
+- 工具条纯蓝模版 [http://www.qqqao.com/index3.html](http://www.qqqao.com/index3.html "工具条纯蓝模版")
 
 ### License
 
