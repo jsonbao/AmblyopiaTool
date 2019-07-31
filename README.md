@@ -40,8 +40,8 @@
              if (window.top.document.getElementById("rrbay_toolbar_div")) {
                  return false;
              }
-            var url = "?url=" + document.location.href; window.scrollTo(0, 0);
-            location_href('canyou/default.html' + url);
+            window.scrollTo(0, 0);
+            location_href('canyou/default.html');
         }
         function location_href(url) { location.href = url }
     </script>
@@ -50,8 +50,6 @@
 ```
    <a title="盲人朋友在线浏览按住shift+1键"  onmousedown="ShowDetail()">信息无障碍通道</a>。
 ```
-- 4.修改```canyou/default.html```中```cysrc="http://localhost"```为```cysrc="http://www.hi.gov.cn/" ```
-
 
 > 测试部署是否成功
 
