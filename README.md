@@ -36,12 +36,12 @@
 - 2.添加js.将下面一段js放在首页模板区间任意位置即可。一般网站头部和尾部都是模版区。建议放在网站每个页面的```</body>```之前
 ```
      <script type="text/javascript">
-         function ShowDetail() {
-             if (window.top.document.getElementById("rrbay_toolbar_div")) {
-                 return false;
-             }
-            window.scrollTo(0, 0);
-            location_href('canyou/default.html');
+        function ShowDetail() {
+           if (window.top.document.getElementById("rrbay_toolbar_div")) {
+               return false;
+           }
+           var url = "?url=" + document.location.href;window.scrollTo(0, 0);
+           location_href('canyou/default.html'  + url);
         }
         function location_href(url) { location.href = url }
     </script>
