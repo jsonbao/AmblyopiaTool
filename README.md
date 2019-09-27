@@ -66,6 +66,10 @@
 
 - 工具条纯蓝模版 [http://www.qqqao.com/index3.html](http://www.qqqao.com/index3.html "工具条纯蓝模版")
 
+## 2019-09-20 信息无障碍工具条V1.6版本升级说明
+- 修复 URL(/canyou/default.html?url=)存在基于DOM的跨站脚本漏洞
+- 修复 URL(/canyou/default.html?url=)存在跳转漏洞
+
 ### License
 
 GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007
