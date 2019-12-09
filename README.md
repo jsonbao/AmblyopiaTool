@@ -31,9 +31,9 @@
 
 > 以海南人民政府网站为例，官网地址：http://www.hi.gov.cn/code/html
 
-- 1.将```canyou```文件夹放到 ```http://www.hi.gov.cn``` 站点指向的服务器目录下，保证```http://www.hi.gov.cn/canyou/```能够被访问到即可。
+- 1.将`canyou`文件夹放到 `http://www.hi.gov.cn` 站点指向的服务器目录下，保证`http://www.hi.gov.cn/canyou/`能够被访问到即可。
 
-- 2.添加js.将下面一段js放在首页模板区间任意位置即可。一般网站头部和尾部都是模版区。建议放在网站每个页面的```</body>```之前
+- 2.添加js.将下面一段js放在`http://www.hi.gov.cn`网站首页模板区间任意位置即可。一般网站头部和尾部都是模版区。建议放在网站每个页面的`</body>`之前
 ```
      <script type="text/javascript">
         function ShowDetail() {
