@@ -70,6 +70,11 @@
 - 修复 URL(/canyou/default.html?url=)存在基于DOM的跨站脚本漏洞
 - 修复 URL(/canyou/default.html?url=)存在跳转漏洞
 
+## 2019-12-31 信息无障碍工具条V1.6版本升级说明
+- 修复 IE兼容模式下,工具条无法使用
+- 修复 工具条下,F5刷新页面,音频失效问题
+- 修复 音频守护进程问题
+
 ### License
 
 GNU AFFERO GENERAL PUBLIC LICENSE Version 3, 19 November 2007
